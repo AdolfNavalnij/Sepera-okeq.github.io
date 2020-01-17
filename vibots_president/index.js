@@ -6,8 +6,8 @@ var chart = am4core.createFromConfig({
     litres: 43
   },
   {
-    party: "Брак",
-    litres: 9
+    party: "Навальный",
+    litres: 89
   },
   {
     party: "АПЭ",
